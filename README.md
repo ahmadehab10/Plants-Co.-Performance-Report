@@ -10,7 +10,7 @@ To ensure accurate analysis, I started by:
 - Checking for data integrity before moving on to modeling.
 
 ## Data Modeling
-I structured the data using a star schema, making it efficient for querying and analysis. The model consists of a central fact table (Sales) connected to multiple dimension tables (Date, Products, Customers, etc.).
+I created a date dimension table and then structured the data using a star schema, making it efficient for querying and analysis. The model consists of a central fact table (Sales) connected to multiple dimension tables 
 
 ## Key DAX Measures
 To gain insights into business performance, I created several key measures:
@@ -36,16 +36,4 @@ To bring the data to life, I designed interactive visualizations, including:
 
 These visualizations help identify key trends and areas for improvement in sales.
 
-## Conclusion
-This project was a great way to apply data cleaning, modeling, and DAX time intelligence functions in Power BI. The final dashboard provides valuable insights into business performance, making it easier to track trends and make informed decisions.
-
-## How to Use
-1. **Download** the Power BI file (.pbix).
-2. Ensure all necessary tables are properly connected in the **data model**.
-3. **Use slicers** to filter and explore different views.
-4. **Analyze YTD and PYTD metrics** to compare sales performance across various dimensions.
-
----
-
-**Author:** [Your Name]  
-**Tools Used:** Power BI, DAX, SQL, Data Modeling
+**Tools Used:** Power BI, DAX, Power Query

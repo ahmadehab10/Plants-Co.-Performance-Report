@@ -37,7 +37,4 @@ To enhance decision-making, **interactive visualizations** were created, includi
 ## Conclusion
 This Power BI project demonstrates a structured approach to **data cleaning, modeling, and visualization**. By leveraging **DAX time intelligence functions**, key business insights were extracted, providing valuable analytics for decision-making.
 
-## How to Use
-1. **Download** the Power BI file (`.pbix`).
-2. Ensure that all necessary tables are included in the **data model**.
-3. **Int
+

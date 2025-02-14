@@ -29,11 +29,10 @@ These allow easy comparisons between current and past performance, with dynamic 
 
 ## Visualizations & Insights
 To bring the data to life, I designed interactive visualizations, including:
-- **Sales Performance by Country**
-- **Sales & Profit Trends Over Time**
-- **Product Type Analysis**
-- **YTD vs. PYTD Comparisons**
+- **Bottom 10 YTD vs PYTD by Country**: Highlights the worst-performing countries.
+- **YTD vs PYTD by Month, Country, and Product**: A waterfall chart illustrating performance trends.
+- **Gross Profit YTD & PYTD by Month**: A stacked bar + line chart breaking down profits by product type.
+- **Account Profitability Segmentation**: A scatter plot visualizing profit distribution with dynamic reference lines.
 
-These visualizations help identify key trends and areas for improvement in sales.
 
 **Tools Used:** Power BI, DAX, Power Query
